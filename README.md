@@ -1,8 +1,11 @@
 # completed by zhindasp (SimpleMouse, me), delmataw (Barinov Egor), palmirca (Nalband Artur)
 
-build the static *s21_string.a* library using *make s21_string.a* \n
-testing done using check.h library \n
-generate coverage report using *make gcov_report* \n
+build the static *s21_string.a* library using *make s21_string.a*.
+
+testing done using check.h library.
+
+generate coverage report using *make gcov_report*.
+
 
 
 # School 21 task requirements below
